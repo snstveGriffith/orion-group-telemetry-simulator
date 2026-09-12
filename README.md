@@ -55,4 +55,4 @@ This project models the dynamic physics of a launch vehicle's first stage (rocke
 
 The generated plot will be automatically saved to graficos/telemetry_orion_flight.png.
 
-⚠️ ****Disclaimer: This repository and its contents were created exclusively for an academic school project. "Orion Group" is a fictional entity designed for educational and demonstration purposes.****_
+⚠️ ****Disclaimer: This repository and its contents were created exclusively for an academic school project. "Orion Group" is a fictional entity designed for educational and demonstration purposes.****
