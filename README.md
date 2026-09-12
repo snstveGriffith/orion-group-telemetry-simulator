@@ -1,4 +1,3 @@
-Here is the complete README.md updated in English, including the project disclaimer at the end:
 
 # 🚀 Orion Group — Aerospace Telemetry Simulator
 
