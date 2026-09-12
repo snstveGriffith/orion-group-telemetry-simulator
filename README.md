@@ -39,9 +39,8 @@ This project models the dynamic physics of a launch vehicle's first stage (rocke
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com//OrionGroup_Aerospace.git](https://github.com/your-username/OrionGroup_Aerospace.git)
+   git clone [https://github.com//OrionGroup_Aerospace.git](https://github.com/snstveGriffith/OrionGroup_Aerospace.git)
    cd OrionGroup_Aerospace
-
 
 2. Create and activate a virtual environment:
    python3 -m venv .venv
@@ -56,4 +55,4 @@ This project models the dynamic physics of a launch vehicle's first stage (rocke
 
 The generated plot will be automatically saved to graficos/telemetry_orion_flight.png.
 
-⚠️ ****_Disclaimer: This repository and its contents were created exclusively for an academic school project. "Orion Group" is a fictional entity designed for educational and demonstration purposes.****_
+⚠️ ****Disclaimer: This repository and its contents were created exclusively for an academic school project. "Orion Group" is a fictional entity designed for educational and demonstration purposes.****_
